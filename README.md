@@ -27,10 +27,9 @@
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/>
 </p>
 
-<!-- Background Section -->
+<!-- Dark Theme and Background Section -->
 <div style="background-color: #1E1E1E; padding: 20px; border-radius: 8px;">
   <p align="center">
     <!-- Add your content here -->
   </p>
 </div>
-
